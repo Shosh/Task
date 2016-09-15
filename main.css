@@ -1,0 +1,21 @@
+body {
+  padding: 0px;
+  margin: 0px;
+}
+
+.big-rectangle {
+  width: 800px;
+  height: 600px;
+  background-color: #eeee00;
+}
+
+.small-rectangle {
+  width: 400px;
+  height: 100px;
+  background-color: #ee0000;
+  cursor: move;
+}
+
+.bg-green {
+  background-color: #76ee00;
+}
