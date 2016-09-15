@@ -1,0 +1,19 @@
+{
+  "name": "bulpros-task",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@bitbucket.org/magche/blupros-task.git"
+  },
+  "author": "Margarita Vasileva",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/magche/blupros-task#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
