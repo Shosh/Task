@@ -1,4 +1,4 @@
-# Bulpros Task
+# Rotating squares
 
 ## Run
 
